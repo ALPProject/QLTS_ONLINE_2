@@ -1,0 +1,1 @@
+<%@ Application Codebehind="Global.asax.cs" Inherits="QuanlyTaiSan.Global_asax" Language="C#" %>

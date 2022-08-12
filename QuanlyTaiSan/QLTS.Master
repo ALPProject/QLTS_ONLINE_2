@@ -1,0 +1,27 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="QLTS.master.cs" Inherits="QuanlyTaiSan.QLTS" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title>TRANG WEB QUAN LY TAI SAN - TAP DOAN ALPHANAM GROUP</title>
+    <link rel="stylesheet" href="Style/bootstrap.min.css">
+    <script src="Scripts/bootstrap.bundle.min.js"></script>
+    <script src="Scripts/bootstrap.min.js"></script>
+    <script src="Scripts/jquery.min.js"></script>
+    <script src="Scripts/popper.min.js"></script>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+
+
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>
