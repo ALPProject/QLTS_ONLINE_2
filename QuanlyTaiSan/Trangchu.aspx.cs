@@ -22,6 +22,7 @@ namespace QuanlyTaiSan
             string name = Request.Form["Name"];
             string email = txtpasword.Value.ToString();
             string pass = null;
+            string t = null;
         }
     }
 }
