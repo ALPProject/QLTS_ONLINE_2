@@ -11,7 +11,17 @@ namespace QuanlyTaiSan
     {
         protected void Page_Load(object sender, EventArgs e)
         {
+            if(!IsPostBack)
+            {
 
+            }
+        }
+
+        protected void Button1_Click(object sender, EventArgs e)
+        {
+            string name = Request.Form["Name"];
+            string email = txtpasword.Value.ToString();
+            string pass = null;
         }
     }
 }
