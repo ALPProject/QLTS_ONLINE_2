@@ -9,7 +9,6 @@
           <img src="Image/draw2.webp" class="img-fluid" alt="Sample image">
       </div>
       <div class="col-md-8 col-lg-6 col-xl-4 offset-xl-1">
-        <form>
           <div class="d-flex flex-row align-items-center justify-content-center justify-content-lg-start">
             <p class="lead fw-normal mb-0 me-3">Đăng nhập hệ thống</p>
             <button type="button" class="btn btn-primary btn-floating mx-1">
@@ -31,14 +30,14 @@
 
           <!-- Email input -->
           <div class="form-outline mb-4">
-            <input type="email" id="form3Example3" class="form-control form-control-md"
+            <input type="email" id="txtemail" class="form-control form-control-md"
               placeholder="Enter a valid email address" />
             
           </div>
 
           <!-- Password input -->
           <div class="form-outline mb-3">
-            <input type="password" id="form3Example4" class="form-control form-control-lg"
+            <input type="password" id="txtpasword" runat="server" class="form-control form-control-lg"
               placeholder="Enter password" />
             
           </div>
@@ -46,7 +45,7 @@
           <div class="d-flex justify-content-between align-items-center">
             <!-- Checkbox -->
             <div class="form-check mb-0">
-              <input class="form-check-input me-2" type="checkbox" value="" id="form2Example3" />
+              <input class="form-check-input me-2" runat="server" type="checkbox" value="" id="form2Example3" />
               <label class="form-check-label" for="form2Example3">
                 Lưu phiên làm việc
               </label>
@@ -55,11 +54,10 @@
           </div>
 
           <div class="text-center text-lg-start mt-4 pt-2">
-            <button type="button" class="btn btn-primary btn-lg"
-              style="padding-left: 2.5rem; padding-right: 2.5rem;">Login</button>
+              <asp:Button ID="Button1" runat="server" Text="Đăng nhập" class="btn btn-primary btn-lg" OnClick="Button1_Click"/>
           </div>
 
-        </form>
+
       </div>
     </div>
   </div>
