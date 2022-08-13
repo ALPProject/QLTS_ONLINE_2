@@ -232,3 +232,4 @@ D:\SOFT-DEV\GIT\QLTS_ONLINE_2\QuanlyTaiSan\obj\Debug\QuanlyTaiSan.csproj.CoreCom
 D:\SOFT-DEV\GIT\QLTS_ONLINE_2\QuanlyTaiSan\obj\Debug\QuanlyTaiSan.csproj.CopyComplete
 D:\SOFT-DEV\GIT\QLTS_ONLINE_2\QuanlyTaiSan\obj\Debug\QuanlyTaiSan.dll
 D:\SOFT-DEV\GIT\QLTS_ONLINE_2\QuanlyTaiSan\obj\Debug\QuanlyTaiSan.pdb
+D:\SOFT-DEV\GIT\QLTS_ONLINE_2\QuanlyTaiSan\obj\Debug\QuanlyTaiSan.csprojAssemblyReference.cache

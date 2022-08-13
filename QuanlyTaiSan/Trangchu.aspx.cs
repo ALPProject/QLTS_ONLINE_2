@@ -21,7 +21,7 @@ namespace QuanlyTaiSan
         {
             string name = Request.Form["Name"];
                 
-            string pass =txtpasword;
+            //string pass =txtpasword;
             string t = null;
         }
     }
