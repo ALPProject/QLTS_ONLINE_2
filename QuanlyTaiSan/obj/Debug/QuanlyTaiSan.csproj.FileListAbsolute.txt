@@ -227,7 +227,6 @@ D:\SOFT-DEV\GIT\QLTS_ONLINE_2\QuanlyTaiSan\bin\de\DevExpress.Xpo.v19.2.resources
 D:\SOFT-DEV\GIT\QLTS_ONLINE_2\QuanlyTaiSan\bin\es\DevExpress.Xpo.v19.2.resources.dll
 D:\SOFT-DEV\GIT\QLTS_ONLINE_2\QuanlyTaiSan\bin\ja\DevExpress.Xpo.v19.2.resources.dll
 D:\SOFT-DEV\GIT\QLTS_ONLINE_2\QuanlyTaiSan\bin\ru\DevExpress.Xpo.v19.2.resources.dll
-D:\SOFT-DEV\GIT\QLTS_ONLINE_2\QuanlyTaiSan\obj\Debug\QuanlyTaiSan.csprojAssemblyReference.cache
 D:\SOFT-DEV\GIT\QLTS_ONLINE_2\QuanlyTaiSan\obj\Debug\QuanlyTaiSan.dll.licenses
 D:\SOFT-DEV\GIT\QLTS_ONLINE_2\QuanlyTaiSan\obj\Debug\QuanlyTaiSan.csproj.CoreCompileInputs.cache
 D:\SOFT-DEV\GIT\QLTS_ONLINE_2\QuanlyTaiSan\obj\Debug\QuanlyTaiSan.csproj.CopyComplete

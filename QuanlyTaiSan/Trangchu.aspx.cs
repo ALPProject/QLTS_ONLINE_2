@@ -20,8 +20,8 @@ namespace QuanlyTaiSan
         protected void Button1_Click(object sender, EventArgs e)
         {
             string name = Request.Form["Name"];
-            string email = txtpasword.Value.ToString();
-            string pass = null;
+                
+            string pass =txtpasword;
             string t = null;
         }
     }
