@@ -1,6 +1,10 @@
 0. git pull origin <tên nhánh cần pull>
+git log
 1. git init
-2. git add -A
+2. git add .
 3. git status
 4. git commit -m "message"
-5. git push
+5. git remote add origin <link git>
+5. git push -u origin master
+
+git brand <tên brand>
