@@ -2,12 +2,14 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
-                <section class="vh-100">
+    <section class="vh-100">
   <div class="container-fluid h-custom">
     <div class="row d-flex justify-content-center align-items-center h-100">
       <div class="col-md-9 col-lg-6 col-xl-5">
           <img src="Image/draw2.webp" class="img-fluid" alt="Sample image">
       </div>
+
+
       <div class="col-md-8 col-lg-6 col-xl-4 offset-xl-1">
           <div class="d-flex flex-row align-items-center justify-content-center justify-content-lg-start">
             <p class="lead fw-normal mb-0 me-3">Đăng nhập hệ thống</p>
@@ -30,9 +32,12 @@
 
           <!-- Email input -->
           <div class="form-outline mb-4">
+<<<<<<< HEAD
             <input type="email" id="txtemail" class="form-control form-control-md"
+=======
+            <input type="email" id="txtemail" runat="server" class="form-control form-control-md"
+>>>>>>> origin/Dev
               placeholder="Enter a valid email address" />
-            
           </div>
 
           <!-- Password input -->
