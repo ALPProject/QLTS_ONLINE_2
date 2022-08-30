@@ -13,18 +13,6 @@ namespace QuanlyTaiSan {
     public partial class Trangchu {
         
         /// <summary>
-<<<<<<< HEAD
-=======
-        /// txtemail control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.HtmlControls.HtmlInputGenericControl txtemail;
-        
-        /// <summary>
->>>>>>> origin/Dev
         /// txtpasword control.
         /// </summary>
         /// <remarks>
